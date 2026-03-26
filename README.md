@@ -1,6 +1,0 @@
-  <html>                                                                                                                
-  <body>                                                                                                                
-  <h1>Jigsee Support</h1>                                                                                        
-  <p>For support, please contact: investhogehoge@gmail.com</p>                                                            
-  </body>                                                                                                               
-  </html>   
